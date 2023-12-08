@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nexcent-Website/static/css/main.0c9dfffc.css",
+    "main.js": "/Nexcent-Website/static/js/main.caf8d52c.js",
+    "static/media/login.jpg": "/Nexcent-Website/static/media/login.732bae5cc760c21d81f6.jpg",
+    "static/media/laptop.jpg": "/Nexcent-Website/static/media/laptop.1e22e96caf92ba96ce18.jpg",
+    "static/media/laptop2.jpg": "/Nexcent-Website/static/media/laptop2.0a7d15620bec81274ee9.jpg",
+    "static/media/laptop1.jpg": "/Nexcent-Website/static/media/laptop1.33163e9d98374bcfc330.jpg",
+    "index.html": "/Nexcent-Website/index.html",
+    "main.0c9dfffc.css.map": "/Nexcent-Website/static/css/main.0c9dfffc.css.map",
+    "main.caf8d52c.js.map": "/Nexcent-Website/static/js/main.caf8d52c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c9dfffc.css",
+    "static/js/main.caf8d52c.js"
+  ]
+}
